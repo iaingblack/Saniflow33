@@ -1,0 +1,4 @@
+BLOG IDEAS
+
+ - Creating a puppet virtualbox workflow
+ 
