@@ -1,4 +1,9 @@
 BLOG IDEAS
 
- - Creating a puppet virtualbox workflow
+ - Creating a puppet/vagrant/virtualbox workflow
+   - Creating a basebox
+   - Create a puppet repo
+   - Add some modules
+   
+   Azure csv creator thing 
  
